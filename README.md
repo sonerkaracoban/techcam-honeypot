@@ -45,8 +45,16 @@ Open another terminal or use another device on the same network to test the deco
 telnet localhost 23
 ```
 
-### 📸 Screenshot
-*(Replace this text with a screenshot of your terminal showing the fake login prompt and the logging action!)*
+### 📸 Honeypot in Action
+
+**1. The Bait (Attacker's View - Telnet Login)**
+![Attacker View](screenshot-1.png)
+
+**2. The Trap (Server's View - Catching the IP)**
+![Server View](screenshot-2.png)
+
+**3. The Catch (Logged Credentials in CSV)**
+![Captured Data](screenshot-3.png)
 
 ---
 
