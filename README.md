@@ -51,13 +51,9 @@ telnet localhost 23
 
 ![Attacker View](screenshot-1.png)
 
-<br>
-
 **2. The Trap (Server's View - Catching the IP)**
 
 ![Server View](screenshot-2.png)
-
-<br>
 
 **3. The Catch (Logged Credentials in CSV)**
 
