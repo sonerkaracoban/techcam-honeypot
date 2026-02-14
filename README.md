@@ -48,12 +48,19 @@ telnet localhost 23
 ### 📸 Honeypot in Action
 
 **1. The Bait (Attacker's View - Telnet Login)**
+
 ![Attacker View](screenshot-1.png)
 
+<br>
+
 **2. The Trap (Server's View - Catching the IP)**
+
 ![Server View](screenshot-2.png)
 
+<br>
+
 **3. The Catch (Logged Credentials in CSV)**
+
 ![Captured Data](screenshot-3.png)
 
 ---
